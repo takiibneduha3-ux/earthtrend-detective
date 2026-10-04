@@ -66,6 +66,12 @@ The application explicitly avoids overclaiming:
 
 Evidence records include source information, retrieval metadata, coordinates, methodology information, and evidence hashes where available.
 
+## Repository contents
+
+This repository currently contains the project documentation, methodology note, license, and presentation materials. The complete Builder-generated application source tree was not exported into this repository at the time of this update, so this repository should not be described as a complete reproducible source checkout.
+
+See the [data sources](docs/DATA_SOURCES.md), [methodology](docs/METHODOLOGY.md), [limitations](docs/LIMITATIONS.md), [testing status](docs/TESTING.md), [architecture overview](docs/ARCHITECTURE.md), [demo guide](DEMO.md), and [submission fact sheet](SUBMISSION.md).
+
 ## Demo
 
 See the 7-slide presentation:
