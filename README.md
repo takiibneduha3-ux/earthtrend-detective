@@ -6,7 +6,7 @@ Team: **decoder**
 
 ## Overview
 
-EarthTrend Detective Pro is an evidence-first Earth system trend investigation tool. It helps users investigate long-term environmental changes using NASA Earth observation and climate data.
+EarthTrend Detective Pro is an evidence-first Earth-system trend investigation prototype. It helps users investigate long-term environmental changes using NASA Earth-system data, including NASA POWER model/reanalysis-derived variables.
 
 The project focuses on identifying trends, testing their statistical significance, examining spatial consistency, and presenting the evidence and limitations behind each result.
 
@@ -70,19 +70,21 @@ Evidence records include source information, retrieval metadata, coordinates, me
 
 This repository currently contains the project documentation, methodology note, license, and presentation materials. The complete Builder-generated application source tree was not exported into this repository at the time of this update, so this repository should not be described as a complete reproducible source checkout.
 
-See the [data sources](docs/DATA_SOURCES.md), [methodology](docs/METHODOLOGY.md), [limitations](docs/LIMITATIONS.md), [testing status](docs/TESTING.md), [architecture overview](docs/ARCHITECTURE.md), [demo guide](DEMO.md), and [submission fact sheet](SUBMISSION.md).
+See the [data sources](docs/DATA_SOURCES.md), [methodology](docs/methodology.md), [limitations](docs/LIMITATIONS.md), [testing status](docs/TESTING.md), [architecture overview](docs/ARCHITECTURE.md), [demo guide](DEMO.md), and [submission fact sheet](SUBMISSION.md).
 
 ## Demo
 
 See the 7-slide presentation:
 
-`demo.pdf`
+[demo.pptx](demo.pptx)
 
 ## Live Application
 
 https://earth-trend-detective.base44.app/
 
-## Source Code
+## Project Repository
+
+This public repository contains the project documentation, methodology note, license, presentation, and handoff materials. The complete Builder-generated application source tree was not exported into this repository at the time of this update.
 
 https://github.com/takiibneduha3-ux/earthtrend-detective
 
