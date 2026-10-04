@@ -74,7 +74,7 @@ See the [data sources](docs/DATA_SOURCES.md), [methodology](docs/methodology.md)
 
 ## Demo
 
-See the 7-slide presentation:
+See the 10-slide presentation:
 
 [demo.pptx](demo.pptx)
 
