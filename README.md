@@ -1,4 +1,4 @@
-# EarthTrend Detective Pro
+# Earth Forensics
 
 **NASA Space Apps Challenge 2026**  
 Challenge: **Be An Earth System Trend Detective!**  
@@ -6,7 +6,7 @@ Team: **decoder**
 
 ## Overview
 
-EarthTrend Detective Pro is an evidence-first Earth-system trend investigation prototype. It helps users investigate long-term environmental changes using NASA Earth-system data, including NASA POWER model/reanalysis-derived variables.
+Earth Forensics is an evidence-first Earth-system trend investigation prototype. It helps users investigate long-term environmental changes using NASA Earth-system data, including NASA POWER model/reanalysis-derived variables.
 
 The project focuses on identifying trends, testing their statistical significance, examining spatial consistency, and presenting the evidence and limitations behind each result.
 

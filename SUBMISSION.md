@@ -2,7 +2,7 @@
 
 ## Project
 
-- Title: EarthTrend Detective Pro
+- Title: Earth Forensics
 - Challenge: Be An Earth System Trend Detective!
 - Event: NASA Space Apps Challenge 2026
 - Team: decoder
@@ -13,7 +13,7 @@ Earth-system variables can trend in different directions in different places. It
 
 ## Solution
 
-EarthTrend Detective is an evidence-first investigation prototype that uses NASA data to display location-based environmental trends, magnitude, statistical evidence, provenance, and limitations.
+Earth Forensics is an evidence-first investigation prototype that uses NASA data to display location-based environmental trends, magnitude, statistical evidence, provenance, and limitations.
 
 ## Sources
 
